@@ -6,4 +6,3 @@ Here is my first landing page as a front-end developer!!
 - Date: 24/10/2016
 - Name: Weber Landing Page
 - Company: Weber Design LTDA
-- Testando git
