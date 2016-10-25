@@ -55,6 +55,7 @@ body {
 
 .box-price {
   border: 1px solid #307F74;
+  border-radius: 4px;
   display: inline-block;
   font-family: 'Open Sans', sans-serif;
   height: 300px;
