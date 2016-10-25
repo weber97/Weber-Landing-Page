@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.fullscreen {
+  background: #ACFFF3;
+  width: 100vw;
+  height: 100vh;
+}
+
+.artigo {
+  max-width: 100%;
+  width: 1260px;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.artigo p {
+  text-align: justify;
+  line-height: 30px;
+}
+
+.artigo h1 {
+  text-align: center;
+  font-size: 35px;
+  text-transform: uppercase;
+}
