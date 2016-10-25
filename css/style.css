@@ -11,7 +11,7 @@ body {
 .artigo {
   max-width: 100%;
   width: 1260px;
-  margin: 0 auto;
+  margin: 50px auto;
 }
 
 .artigo p {
@@ -29,14 +29,23 @@ body {
 .box-price {
   height: 300px;
   width: 300px;
-  background: red;
+  border: 1px solid #307F74;
   display: inline-block;
   vertical-align: middle;
   margin-left: 50px;
+  padding: 15px;
+}
+
+.box-price h1 {
+  font-size: 30px;
+}
+
+.box-price p {
+  margin: 0;
 }
 
 .box {
   max-width: 100%;
   text-align: center;
-  margin: 100px 0;
+  margin-bottom: 100px;
 }
