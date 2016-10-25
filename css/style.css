@@ -21,7 +21,22 @@ body {
 }
 
 .artigo h1 {
+  margin: 0;
   text-align: center;
   font-size: 35px;
   text-transform: uppercase;
+}
+
+.box-price {
+  max-width: 100%;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.box-price div {
+  width: 33.33%;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 0 25px;
+  text-align: justify;
 }
